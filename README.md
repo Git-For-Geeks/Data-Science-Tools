@@ -24,13 +24,21 @@ Read more: [Data Science](https://towardsdatascience.com/what-is-data-science-8c
 
 
 # Task
-Create a Exploratory data analysis on Datasets given [here]()
+1. Create a **Exploratory data analysis** on any Dataset of your choice. 
+2. Find statistics and conclusion from the dataset like Trends, Future Outcome, etc.
+2. Apply Data Visualization techniques to elaborate your conclusion.
 
+
+  ### Some sample datasets [here](https://github.com/Git-For-Geeks/Data_Science_Tools/tree/main/Dataset)
+  ### For more datasets: [Visit here](https://www.kaggle.com/datasets)
+
+  
 
 #
 ## 📌 Contribution Guidelines 🏗 
 
 
+ Find Issue to work on, comment on that issue and wait till you are assigned. Once assigned, start resolving the issue.
 
 **1.**  Fork [this](https://github.com/Git-For-Geeks/Data_Science_Tools) repository.
 
@@ -45,26 +53,29 @@ Create a Exploratory data analysis on Datasets given [here]()
 ```
    cd Data_Science_Tools
 ```
-**4.** Find Issue to work on or create a new issue.
 
-**5.** Make changes in source code and stage.
+**4.** Make changes in source code and stage.
 ```
    git add .
 ```
 
-**6.** Stage your changes and commit
+**5.** Stage your changes and commit
 ```
    git commit -m "<your_commit_message>"
 ```
 
-**7.** Push your local commits to the remote repo.
+**6.** Push your local commits to your repository.
 
 ```
-   git push origin YourBranchName
+   git push origin main
 ```
 
-**8.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+**7.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) to main repository.
 
 
+## Note
 
+- All contributors must follow the contribution rules in order to get their PRs merged.
+- The codes must have comments to explain them. Simply copy pasting is not allowed.
+- If you are referring resources, make sure to avoid copy pasting the code. **Plagiarism will be checked**.
 
