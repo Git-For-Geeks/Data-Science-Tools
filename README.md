@@ -32,6 +32,7 @@ Read more: [Data Science](https://towardsdatascience.com/what-is-data-science-8c
   ### Some sample datasets [here](https://github.com/Git-For-Geeks/Data_Science_Tools/tree/main/Dataset)
   ### For more datasets: [Visit here](https://www.kaggle.com/datasets)
 
+  #### You can use any of the datasets but you should apply proper data visualization techniques that end up in finding the conclusion that can be drawn after visualizing the data. Mention the conclusion in your Collab or Python Notebooks.
   
 
 #
